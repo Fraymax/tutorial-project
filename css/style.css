@@ -8,7 +8,7 @@ body {
   flex-direction: row-reverse; /*обратный порядок гориз размещеиня*/
   width: 1200px; /*ШИРИНА БЛОКА*/
   background: #fff;
-  margin: 50px auto; /* центрирование блока*/
+  margin: 40px auto; /* центрирование блока*/
 }
 
 /* Main-content-section */
